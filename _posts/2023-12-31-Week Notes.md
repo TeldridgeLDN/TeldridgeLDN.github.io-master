@@ -8,6 +8,7 @@ tags: Week_Notes
 ---
 ### 2023 Retrospective 
 
+
 ### Health
 
 1,436km distance covered across 182 runs
@@ -40,12 +41,4 @@ Meditated for 11,700 minutes
 - [Indiana Jones and the Dial of Destiny](https://www.imdb.com/title/tt1462764/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_indiana)
 - [Mission: Impossible - Dead Reckoning Part One](https://www.imdb.com/title/tt9603212/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_mission)
 - [Dear England at the National Theatre](https://www.nationaltheatre.org.uk/productions/dear-england/)
-<<<<<<< HEAD
-<<<<<<< HEAD
 - [Stop Making Sense](https://www.imdb.com/title/tt0088178/)
-=======
-- [Stop Making Sense (1984) - IMDb](https://www.imdb.com/title/tt0088178/)
->>>>>>> 359c9a2 (First Commit)
-=======
-- [Stop Making Sense](https://www.imdb.com/title/tt0088178/)
->>>>>>> d40a9be (Third Commit)
