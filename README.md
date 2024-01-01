@@ -8,4 +8,3 @@ This is a fork of al-folio theme with the CSS and HTML customised to suit my per
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
-
